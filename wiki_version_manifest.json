@@ -1,0 +1,516 @@
+{
+  "generated_at_utc": "2026-07-09T17:51:04.730659+00:00",
+  "wiki_version_timestamp_utc": "2026-07-08T18:34:49+00:00",
+  "source_crawl_started_at_utc": "2026-07-08T18:34:01+00:00",
+  "source_crawl_finished_at_utc": "2026-07-08T18:34:49+00:00",
+  "source_dump": "wiki_dump/ecliptica_content_allpages",
+  "output_dir": "wiki_dump\\ecliptica_zh\\site",
+  "entry": "index.html",
+  "source_pages_count": 63,
+  "html_included_pages_count": 53,
+  "html_excluded_pages": [
+    "Contributors",
+    "Extra",
+    "Main Page",
+    "Main Page/common.css",
+    "Main Page:Common.css",
+    "Main Page:common.css",
+    "Music",
+    "PirateGasterEasterEgg",
+    "Project : About",
+    "Project : General disclaimer"
+  ],
+  "site_pages_written": 65,
+  "images": {
+    "unique_sources": 313,
+    "images_written": 313,
+    "copied_from_cache": 313,
+    "downloaded": 0,
+    "failed": []
+  },
+  "links": {
+    "internal_links_rewritten": 162,
+    "wiki_links_unwrapped": 468,
+    "boss_icons_marked": 64,
+    "class_labels_linked": 16
+  },
+  "pages": [
+    {
+      "title": "Classes",
+      "site_path": "pages/classes.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Classes",
+      "fetched_at": "2026-07-08T18:34:07+00:00",
+      "content_sha256": "04c5c37651e54db24787d6619178f1b2c1f36deb2d31ab93a4a2371647ae2271",
+      "pageid": 14,
+      "namespace": 0
+    },
+    {
+      "title": "Spellsword",
+      "site_path": "pages/spellsword.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Spellsword",
+      "fetched_at": "2026-07-08T18:34:39+00:00",
+      "content_sha256": "fc38f51605f133f25f38dd4d560f1dee07f51d2199fe6f4178cba311ef0ea753",
+      "pageid": 18,
+      "namespace": 0
+    },
+    {
+      "title": "Twinmage",
+      "site_path": "pages/twinmage.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Twinmage",
+      "fetched_at": "2026-07-08T18:34:45+00:00",
+      "content_sha256": "4576c51637eb550aed7716a03a2895fa30a35421d02e657ab1ff2fce326f906a",
+      "pageid": 32,
+      "namespace": 0
+    },
+    {
+      "title": "Gunmancer",
+      "site_path": "pages/gunmancer.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Gunmancer",
+      "fetched_at": "2026-07-08T18:34:15+00:00",
+      "content_sha256": "9d54c2343cc578b63482c533ade1d552d31296e69ae60d47bb872be747c63386",
+      "pageid": 35,
+      "namespace": 0
+    },
+    {
+      "title": "Fistmage",
+      "site_path": "pages/fistmage.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Fistmage",
+      "fetched_at": "2026-07-08T18:34:14+00:00",
+      "content_sha256": "27ecbba270776ed6fb6521b57d6ad9f673c7e8bb24cf7500ff56de94926c8769",
+      "pageid": 34,
+      "namespace": 0
+    },
+    {
+      "title": "Spellhammer",
+      "site_path": "pages/spellhammer.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Spellhammer",
+      "fetched_at": "2026-07-08T18:34:38+00:00",
+      "content_sha256": "675e239284b4003c05d8316b5d5c4a22fe7978d6d47e897538a79891d058678a",
+      "pageid": 46,
+      "namespace": 0
+    },
+    {
+      "title": "Shield Mage",
+      "site_path": "pages/shield-mage.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Shield_Mage",
+      "fetched_at": "2026-07-08T18:34:36+00:00",
+      "content_sha256": "d3b77b4751eb0d70454f2a8448319fb7fcac183f00104704876ee8e89e2099c0",
+      "pageid": 47,
+      "namespace": 0
+    },
+    {
+      "title": "Thaumaturge",
+      "site_path": "pages/thaumaturge.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Thaumaturge",
+      "fetched_at": "2026-07-08T18:34:42+00:00",
+      "content_sha256": "e31c46342fee56cc007b830bbce66605be6d29a962f4411435ba0b7f1e051052",
+      "pageid": 33,
+      "namespace": 0
+    },
+    {
+      "title": "Nekomancer",
+      "site_path": "pages/nekomancer.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Nekomancer",
+      "fetched_at": "2026-07-08T18:34:30+00:00",
+      "content_sha256": "ce55d1592324e63f979244be03ffde1ca827bd0bbc453ece8bb0a7dccaacf9dc",
+      "pageid": 45,
+      "namespace": 0
+    },
+    {
+      "title": "Enemies",
+      "site_path": "pages/enemies.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Enemies",
+      "fetched_at": "2026-07-08T18:34:12+00:00",
+      "content_sha256": "994ce31dcac9f8f0abdc008e5df6ecb131b31ec319816b59797dbdfa8eb1dfa5",
+      "pageid": 30,
+      "namespace": 0
+    },
+    {
+      "title": "Difficulty Modifier",
+      "site_path": "pages/difficulty-modifier.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Difficulty_Modifier",
+      "fetched_at": "2026-07-08T18:34:12+00:00",
+      "content_sha256": "a0d76f3dae6b6944727bc014c3c5fe4c4331075a922c98abe75373d29ad1a815",
+      "pageid": 36,
+      "namespace": 0
+    },
+    {
+      "title": "Bosses",
+      "site_path": "pages/bosses.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Bosses",
+      "fetched_at": "2026-07-08T18:34:05+00:00",
+      "content_sha256": "fb19456a2e2824cd113f56898d1300ef9f023894dd977052fdca744408d5c049",
+      "pageid": 31,
+      "namespace": 0
+    },
+    {
+      "title": "Maxipuss",
+      "site_path": "pages/maxipuss.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Maxipuss",
+      "fetched_at": "2026-07-08T18:34:26+00:00",
+      "content_sha256": "08693e42a905619d36f0e703c4acf9f8288a895549bc8afa275606987daaf0cd",
+      "pageid": 246,
+      "namespace": 0
+    },
+    {
+      "title": "Darkmouth",
+      "site_path": "pages/darkmouth.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Darkmouth",
+      "fetched_at": "2026-07-08T18:34:10+00:00",
+      "content_sha256": "acb67cf57f1f882f5fa56902f7c2c89bf6e54d149646da28df2b7fcf427a7b18",
+      "pageid": 248,
+      "namespace": 0
+    },
+    {
+      "title": "Kakarot",
+      "site_path": "pages/kakarot.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Kakarot",
+      "fetched_at": "2026-07-08T18:34:18+00:00",
+      "content_sha256": "2ecc3c1431d4b8db568d2b66de816a014e07e99f66485cc4106025711df83c05",
+      "pageid": 250,
+      "namespace": 0
+    },
+    {
+      "title": "NaN",
+      "site_path": "pages/nan.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/NaN",
+      "fetched_at": "2026-07-08T18:34:30+00:00",
+      "content_sha256": "dba15c4244a4a891697946e1549cecf2b460732a81a1e79d550b9440db9813aa",
+      "pageid": 252,
+      "namespace": 0
+    },
+    {
+      "title": "Beelzebub",
+      "site_path": "pages/beelzebub.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Beelzebub",
+      "fetched_at": "2026-07-08T18:34:04+00:00",
+      "content_sha256": "d99a65431ab4ab8989d89d8f3a11b15c02fe14f14691774327bb61bcded88a1c",
+      "pageid": 254,
+      "namespace": 0
+    },
+    {
+      "title": "Buff Noob",
+      "site_path": "pages/buff-noob.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Buff_Noob",
+      "fetched_at": "2026-07-08T18:34:06+00:00",
+      "content_sha256": "660e01a4907c851dc3cdde8b23dc7511120ac239b0c005179c6cfcdfd32dec5d",
+      "pageid": 244,
+      "namespace": 0
+    },
+    {
+      "title": "Vesra",
+      "site_path": "pages/vesra.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Vesra",
+      "fetched_at": "2026-07-08T18:34:47+00:00",
+      "content_sha256": "dfdee22a42f98ad487b660e5b5da739b358a9da2aeb88618d808912b2a41a4f5",
+      "pageid": 256,
+      "namespace": 0
+    },
+    {
+      "title": "Pride",
+      "site_path": "pages/pride.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Pride",
+      "fetched_at": "2026-07-08T18:34:35+00:00",
+      "content_sha256": "7932b322d758b8e56e1ccfa646c327105619d4308f8ff5662c8bf109e050f527",
+      "pageid": 258,
+      "namespace": 0
+    },
+    {
+      "title": "Steven",
+      "site_path": "pages/steven.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Steven",
+      "fetched_at": "2026-07-08T18:34:41+00:00",
+      "content_sha256": "91d905df98ff028deb4bc7038cb8829d1d1b86b18873f85cfaec3468c9d6647b",
+      "pageid": 260,
+      "namespace": 0
+    },
+    {
+      "title": "Kodama",
+      "site_path": "pages/kodama.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Kodama",
+      "fetched_at": "2026-07-08T18:34:20+00:00",
+      "content_sha256": "ba58d9ac3aaae1f9395db07a12681c38f86bd8e7a04b3a1d2c93dae6ba00d0e5",
+      "pageid": 262,
+      "namespace": 0
+    },
+    {
+      "title": "The Gravetender",
+      "site_path": "pages/the-gravetender.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/The_Gravetender",
+      "fetched_at": "2026-07-08T18:34:44+00:00",
+      "content_sha256": "65ba919f0517f6aa6f679e2027a56d55e63a59ba4496d59459b6e155e5e3314f",
+      "pageid": 264,
+      "namespace": 0
+    },
+    {
+      "title": "The Black Lily",
+      "site_path": "pages/the-black-lily.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/The_Black_Lily",
+      "fetched_at": "2026-07-08T18:34:43+00:00",
+      "content_sha256": "40bb96006abd6cdd7b0eaf071229c32f7168b51ac2140f63b986d757405b9cef",
+      "pageid": 266,
+      "namespace": 0
+    },
+    {
+      "title": "NX-Obsidian",
+      "site_path": "pages/nx-obsidian.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/NX-Obsidian",
+      "fetched_at": "2026-07-08T18:34:32+00:00",
+      "content_sha256": "c8ca224f786178ae39a767f64afeadbdfdd8be2ae7408116dc809df3c5e36b6c",
+      "pageid": 268,
+      "namespace": 0
+    },
+    {
+      "title": "Middleman",
+      "site_path": "pages/middleman.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Middleman",
+      "fetched_at": "2026-07-08T18:34:28+00:00",
+      "content_sha256": "caaa271802445cd390465a6a287b7901f3248e76f7c51486bf989a1602e16584",
+      "pageid": 270,
+      "namespace": 0
+    },
+    {
+      "title": "Melgor Johnson",
+      "site_path": "pages/melgor-johnson.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Melgor_Johnson",
+      "fetched_at": "2026-07-08T18:34:27+00:00",
+      "content_sha256": "6f64a49de5ee87983374e6ede29c04c063efe8728cc009fd4cfc5ba2fb31a98c",
+      "pageid": 272,
+      "namespace": 0
+    },
+    {
+      "title": "Amaziah",
+      "site_path": "pages/amaziah.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Amaziah",
+      "fetched_at": "2026-07-08T18:34:02+00:00",
+      "content_sha256": "3f72080918661bb7c01b9e5aa440db34633274c86c27c55b72b6e31a1e782e6f",
+      "pageid": 274,
+      "namespace": 0
+    },
+    {
+      "title": "Jacked O' Lantern",
+      "site_path": "pages/jacked-o-lantern.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Jacked_O'_Lantern",
+      "fetched_at": "2026-07-08T18:34:17+00:00",
+      "content_sha256": "b269d9ac02e8adc98b6be9dd1048a7f1cc28894ce59aebb4d7da2a6497a3370f",
+      "pageid": 276,
+      "namespace": 0
+    },
+    {
+      "title": "Despair",
+      "site_path": "pages/despair.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Despair",
+      "fetched_at": "2026-07-08T18:34:11+00:00",
+      "content_sha256": "9b6e08ee3612b35dd46edea5395ca4d437ec8d8444b38df3e59b868e3348cb0f",
+      "pageid": 284,
+      "namespace": 0
+    },
+    {
+      "title": "M-41-D",
+      "site_path": "pages/m-41-d.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/M-41-D",
+      "fetched_at": "2026-07-08T18:34:21+00:00",
+      "content_sha256": "7fe6125738182cb8c05d485e268ca6bc0bcddb33b38ad3b7f5c532f58f7b8655",
+      "pageid": 286,
+      "namespace": 0
+    },
+    {
+      "title": "Corus",
+      "site_path": "pages/corus.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Corus",
+      "fetched_at": "2026-07-08T18:34:10+00:00",
+      "content_sha256": "e29bea66f84ff8e7e5ffe5905701d2cd25e5b25a1192a87c89c3b40262fbddad",
+      "pageid": 288,
+      "namespace": 0
+    },
+    {
+      "title": "Yuki",
+      "site_path": "pages/yuki.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Yuki",
+      "fetched_at": "2026-07-08T18:34:47+00:00",
+      "content_sha256": "415e267f43cda01b8fc8ae361e179eb93f5bdb5ace96a966cea2e6d469ecfcf3",
+      "pageid": 280,
+      "namespace": 0
+    },
+    {
+      "title": "Cone Head",
+      "site_path": "pages/cone-head.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Cone_Head",
+      "fetched_at": "2026-07-08T18:34:08+00:00",
+      "content_sha256": "3b57773806dbb327cff2de5c94b6413015375e70cc65c6d114dba55405187723",
+      "pageid": 290,
+      "namespace": 0
+    },
+    {
+      "title": "Mephiel",
+      "site_path": "pages/mephiel.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Mephiel",
+      "fetched_at": "2026-07-08T18:34:27+00:00",
+      "content_sha256": "74eeb2a2f57ee45a6dc092faf4698e9608a77a1b5ede63a657fe6255841926c4",
+      "pageid": 292,
+      "namespace": 0
+    },
+    {
+      "title": "Irides",
+      "site_path": "pages/irides.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Irides",
+      "fetched_at": "2026-07-08T18:34:16+00:00",
+      "content_sha256": "8ea65ee2d8b6296aa0a5f44028d5e7c85cc6d3923d49d737ec798f963491bce7",
+      "pageid": 282,
+      "namespace": 0
+    },
+    {
+      "title": "Golden Grouch",
+      "site_path": "pages/golden-grouch.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Golden_Grouch",
+      "fetched_at": "2026-07-08T18:34:15+00:00",
+      "content_sha256": "eb2e9901c68f89a3320fe92dc6eeaab561742eeeda5d3d42cca9ce2bd1dcb72e",
+      "pageid": 278,
+      "namespace": 0
+    },
+    {
+      "title": "Abaddon",
+      "site_path": "pages/abaddon.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Abaddon",
+      "fetched_at": "2026-07-08T18:34:01+00:00",
+      "content_sha256": "39459af97c9d35a6bf028e1f103900fa0e46c3cbeac9d4e1f6c4acb60561f286",
+      "pageid": 294,
+      "namespace": 0
+    },
+    {
+      "title": "Khepri",
+      "site_path": "pages/khepri.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Khepri",
+      "fetched_at": "2026-07-08T18:34:19+00:00",
+      "content_sha256": "a7298771b76e14730126348eaba2d5f6f72b0855bb50029966ee13ba5e4b5e7f",
+      "pageid": 296,
+      "namespace": 0
+    },
+    {
+      "title": "Pandora",
+      "site_path": "pages/pandora.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Pandora",
+      "fetched_at": "2026-07-08T18:34:33+00:00",
+      "content_sha256": "afdb78806f0e0de1131649fca46668e48de31280224319bac449e87b3c9f6f65",
+      "pageid": 298,
+      "namespace": 0
+    },
+    {
+      "title": "Bravera",
+      "site_path": "pages/bravera.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Bravera",
+      "fetched_at": "2026-07-08T18:34:05+00:00",
+      "content_sha256": "9a984e7a027edb3f0ccbfe55e1b00677e0771f72c814f9138353b58c9d321107",
+      "pageid": 300,
+      "namespace": 0
+    },
+    {
+      "title": "O-One",
+      "site_path": "pages/o-one.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/O-One",
+      "fetched_at": "2026-07-08T18:34:32+00:00",
+      "content_sha256": "2afc1ae5461407f750b48b6491f7ef78f318c10b6f543ef4576140aa93d58d59",
+      "pageid": 302,
+      "namespace": 0
+    },
+    {
+      "title": "Neo Pilot",
+      "site_path": "pages/neo-pilot.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Neo_Pilot",
+      "fetched_at": "2026-07-08T18:34:31+00:00",
+      "content_sha256": "578ec8570b5632354ffd3dccd35c0a8ad03155821e1962a423461b54ff306e34",
+      "pageid": 304,
+      "namespace": 0
+    },
+    {
+      "title": "Jim C. Bringer",
+      "site_path": "pages/jim-c-bringer.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Jim_C._Bringer",
+      "fetched_at": "2026-07-08T18:34:17+00:00",
+      "content_sha256": "54195c32666f17da7b93114b87be61970431ad871171487de8d37c44bf5744c7",
+      "pageid": 539,
+      "namespace": 0
+    },
+    {
+      "title": "Tokens",
+      "site_path": "pages/tokens.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Tokens",
+      "fetched_at": "2026-07-08T18:34:44+00:00",
+      "content_sha256": "e3ecb93d22448587ceacd48ef5316f6c250cafe88c2dca55202a15effcbfa754",
+      "pageid": 336,
+      "namespace": 0
+    },
+    {
+      "title": "Stack Types",
+      "site_path": "pages/stack-types.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Stack_Types",
+      "fetched_at": "2026-07-08T18:34:39+00:00",
+      "content_sha256": "206bdeb661c9661b602d66a0017b62e168debc93508a5a12069fa9da27d4b9d9",
+      "pageid": 340,
+      "namespace": 0
+    },
+    {
+      "title": "Upgrades",
+      "site_path": "pages/upgrades.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Upgrades",
+      "fetched_at": "2026-07-08T18:34:46+00:00",
+      "content_sha256": "fed012fba99f90f4a9a83876c5733c3cdcac95972a2fb64bd5b1e765e96a8580",
+      "pageid": 40,
+      "namespace": 0
+    },
+    {
+      "title": "Maps",
+      "site_path": "pages/maps.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Maps",
+      "fetched_at": "2026-07-08T18:34:25+00:00",
+      "content_sha256": "6033868bce62d0fbf401a81a5f511070b614c018f1d555f31e21c1779f8d3c66",
+      "pageid": 48,
+      "namespace": 0
+    },
+    {
+      "title": "Stats",
+      "site_path": "pages/stats.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Stats",
+      "fetched_at": "2026-07-08T18:34:40+00:00",
+      "content_sha256": "75e4785d7115fa5723c1fd3af48bbd2cdcedfa659f2d81c6e15a1b6755c80214",
+      "pageid": 44,
+      "namespace": 0
+    },
+    {
+      "title": "Runes",
+      "site_path": "pages/runes.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Runes",
+      "fetched_at": "2026-07-08T18:34:36+00:00",
+      "content_sha256": "005b61b6f74cf686dc060721ba314e227ff5ebb3fe3e1007a2790855b0e13855",
+      "pageid": 67,
+      "namespace": 0
+    },
+    {
+      "title": "Status Effects",
+      "site_path": "pages/status-effects.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Status_Effects",
+      "fetched_at": "2026-07-08T18:34:41+00:00",
+      "content_sha256": "886a63a43b08e2a38c2f814c32aac14207223d6892b7ee4bd34f3858c21561ad",
+      "pageid": 56,
+      "namespace": 0
+    },
+    {
+      "title": "Artifacts",
+      "site_path": "pages/artifacts.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Artifacts",
+      "fetched_at": "2026-07-08T18:34:03+00:00",
+      "content_sha256": "87e6a4b8c9bdf075a7663a8e2771fa15491d07f6ff39d483d6c442280694c823",
+      "pageid": 116,
+      "namespace": 0
+    },
+    {
+      "title": "Skins",
+      "site_path": "pages/skins.html",
+      "source_url": "https://ecliptica.miraheze.org/wiki/Skins",
+      "fetched_at": "2026-07-08T18:34:37+00:00",
+      "content_sha256": "e7ec354bde43b056f96961f949f28eebb025b2602ff11c8535ddf44ce7507f8d",
+      "pageid": 431,
+      "namespace": 0
+    }
+  ]
+}
