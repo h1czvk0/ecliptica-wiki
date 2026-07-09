@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-09T18:19:47.720936+00:00",
+  "generated_at_utc": "2026-07-09T18:25:16.752865+00:00",
   "wiki_version_timestamp_utc": "2026-07-08T18:34:49+00:00",
   "source_crawl_started_at_utc": "2026-07-08T18:34:01+00:00",
   "source_crawl_finished_at_utc": "2026-07-08T18:34:49+00:00",
@@ -20,7 +20,7 @@
     "Project : About",
     "Project : General disclaimer"
   ],
-  "site_pages_written": 66,
+  "site_pages_written": 65,
   "images": {
     "unique_sources": 313,
     "images_written": 313,
@@ -30,7 +30,7 @@
   },
   "links": {
     "internal_links_rewritten": 162,
-    "wiki_links_unwrapped": 473,
+    "wiki_links_unwrapped": 468,
     "boss_icons_marked": 64,
     "class_labels_linked": 16
   },
