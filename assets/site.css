@@ -31,8 +31,14 @@ body {
 
 a {
   color: var(--accent);
+  text-decoration: none;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
 }
 
 img {
@@ -63,8 +69,7 @@ img {
   background: var(--paper);
   color: var(--ink);
   font-weight: 650;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
 }
 
 .top-nav a.active,
@@ -72,6 +77,7 @@ img {
 .top-nav a:focus,
 .top-nav a:hover {
   background: var(--accent-soft);
+  text-decoration: none;
   outline: 2px solid rgba(111, 63, 25, 0.24);
 }
 
@@ -193,8 +199,7 @@ pre {
   border-radius: 8px;
   background: var(--paper);
   color: var(--ink);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
 }
 
 .category-card {
@@ -232,6 +237,7 @@ pre {
 .group-list a:hover,
 .group-list a:focus {
   background: var(--accent-soft);
+  text-decoration: none;
   outline: 2px solid rgba(111, 63, 25, 0.18);
 }
 
@@ -308,8 +314,7 @@ pre {
     color: var(--ink);
     font-size: 1.16rem;
     font-weight: 800;
-    text-decoration: underline;
-    text-underline-offset: 3px;
+    text-decoration: none;
   }
 
   .side-nav ul {
@@ -323,8 +328,7 @@ pre {
     padding: 7px 8px;
     border-radius: 8px;
     color: var(--muted);
-    text-decoration: underline;
-    text-underline-offset: 3px;
+    text-decoration: none;
   }
 
   .side-nav a.active,
@@ -332,6 +336,7 @@ pre {
   .side-nav a:focus {
     background: var(--accent-soft);
     color: var(--accent);
+    text-decoration: none;
     outline: none;
   }
 
